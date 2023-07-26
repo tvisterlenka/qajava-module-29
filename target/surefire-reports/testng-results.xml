@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-26T20:32:40 MSK" name="Surefire suite" finished-at="2023-07-26T20:32:41 MSK" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2023-07-26T20:32:40 MSK" name="Surefire test" finished-at="2023-07-26T20:32:41 MSK" duration-ms="87">
+      <class name="PersonTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="beforeClass" finished-at="2023-07-26T20:32:41 MSK" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[19]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method signature="testAge(int, boolean)[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="testAge" data-provider="ageDataProvider" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAge -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:PersonTest@7cbd213e]" started-at="2023-07-26T20:32:41 MSK" name="afterClass" finished-at="2023-07-26T20:32:41 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- PersonTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
